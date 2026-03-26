@@ -1,2 +1,2 @@
 # simple-portfolio-website
-Portfoli websie
+Portfolio website
